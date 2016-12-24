@@ -1,0 +1,239 @@
+# depslib dependency file v1.0
+1461003366 source:c:\users\hp\desktop\asd\eltatm.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1461003367 c:\users\hp\desktop\asd\eltprim.h
+	"ELTSDD.H"
+
+1461003366 c:\users\hp\desktop\asd\eltsdd.h
+	"ELTATM.H"
+
+1461003366 c:\users\hp\desktop\asd\eltatm.h
+
+1461003367 source:c:\users\hp\desktop\asd\elttab.cpp
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"TABPRIM.H"
+
+1461003366 c:\users\hp\desktop\asd\tabprim.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+	"TABSDD.H"
+
+1461003366 c:\users\hp\desktop\asd\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1461003366 c:\users\hp\desktop\asd\lstsdd.h
+	"LSTATM.H"
+
+1461003367 c:\users\hp\desktop\asd\lstatm.h
+	"ELTPRIM.H"
+
+1461005442 c:\users\hp\desktop\asd\tabsdd.h
+	"ELTTAB.H"
+
+1461003367 c:\users\hp\desktop\asd\elttab.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
+1461003367 source:c:\users\hp\desktop\asd\lstatm.cpp
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"LSTPRIM.H"
+
+1461011792 source:c:\users\hp\desktop\asd\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+	"TABPRIM.H"
+
+1461783805 source:c:\users\hp\desktop\isg\prj\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	<ctype.h>
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+	"TABPRIM.H"
+
+1461021142 c:\users\hp\desktop\isg\prj\eltprim.h
+	"ELTSDD.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\eltsdd.h
+	"ELTATM.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\eltatm.h
+
+1461021445 c:\users\hp\desktop\isg\prj\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\lstsdd.h
+	"LSTATM.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\lstatm.h
+	"ELTPRIM.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\tabprim.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+	"TABSDD.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\tabsdd.h
+	"ELTTAB.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\elttab.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
+1461783551 source:c:\users\hp\desktop\isg\prj\eltatm.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1461783603 source:c:\users\hp\desktop\isg\prj\elttab.cpp
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"TABPRIM.H"
+
+1461776545 source:c:\users\hp\desktop\isg\prj\lstatm.cpp
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"LSTPRIM.H"
+
+1461783551 source:c:\users\hp\desktop\isg\asd2\eltatm.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1461021142 c:\users\hp\desktop\isg\asd2\eltprim.h
+	"ELTSDD.H"
+
+1461021128 c:\users\hp\desktop\isg\asd2\eltsdd.h
+	"ELTATM.H"
+
+1461021128 c:\users\hp\desktop\isg\asd2\eltatm.h
+
+1461783603 source:c:\users\hp\desktop\isg\asd2\elttab.cpp
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"TABPRIM.H"
+
+1461021128 c:\users\hp\desktop\isg\asd2\tabprim.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+	"TABSDD.H"
+
+1461021445 c:\users\hp\desktop\isg\asd2\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1461021128 c:\users\hp\desktop\isg\asd2\lstsdd.h
+	"LSTATM.H"
+
+1461021128 c:\users\hp\desktop\isg\asd2\lstatm.h
+	"ELTPRIM.H"
+
+1461021128 c:\users\hp\desktop\isg\asd2\tabsdd.h
+	"ELTTAB.H"
+
+1461021128 c:\users\hp\desktop\isg\asd2\elttab.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
+1461776545 source:c:\users\hp\desktop\isg\asd2\lstatm.cpp
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"LSTPRIM.H"
+
+1461833761 source:c:\users\hp\desktop\isg\asd2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	<ctype.h>
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+	"TABPRIM.H"
+
+1461783551 source:c:\users\hp\desktop\isg\prj\asd2\eltatm.cpp
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.H"
+
+1461021142 c:\users\hp\desktop\isg\prj\asd2\eltprim.h
+	"ELTSDD.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\asd2\eltsdd.h
+	"ELTATM.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\asd2\eltatm.h
+
+1461783603 source:c:\users\hp\desktop\isg\prj\asd2\elttab.cpp
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"TABPRIM.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\asd2\tabprim.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+	"TABSDD.H"
+
+1461021445 c:\users\hp\desktop\isg\prj\asd2\lstprim.h
+	"ELTPRIM.H"
+	"LSTSDD.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\asd2\lstsdd.h
+	"LSTATM.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\asd2\lstatm.h
+	"ELTPRIM.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\asd2\tabsdd.h
+	"ELTTAB.H"
+
+1461021128 c:\users\hp\desktop\isg\prj\asd2\elttab.h
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+
+1461776545 source:c:\users\hp\desktop\isg\prj\asd2\lstatm.cpp
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	"LSTPRIM.H"
+
+1461833761 source:c:\users\hp\desktop\isg\prj\asd2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	<ctype.h>
+	"ELTPRIM.H"
+	"LSTPRIM.H"
+	"TABPRIM.H"
+
